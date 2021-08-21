@@ -46,6 +46,7 @@ class MainFragment : Fragment() {
                 txtNum2.text=rnds3.toString()
                 score++
                 //Toast.makeText(getActivity(),score.toString(),Toast.LENGTH_SHORT).show()
+                //final
             }
             else
             {
